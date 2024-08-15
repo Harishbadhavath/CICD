@@ -1,7 +1,6 @@
 # CICD Project
 
 Welcome to the  DevOps Project repository! This project demonstrates a complete DevOps workflow, including CI/CD pipeline setup, containerization, infrastructure as code, and monitoring.
-# CICDProject
          
 ### Prerequisites
 
@@ -17,7 +16,7 @@ To work with this project, you need the following tools installed:
 - ### Clone the Repository
 
     git clone https://github.com/Harishbadhavath/CICD.git
-    cd my-devops-project
+    cd CICD-project
 
   ### CI/CD Pipeline Setup
 
@@ -68,9 +67,6 @@ To work with this project, you need the following tools installed:
 
 ### **GitLab CI/CD**: Modify `.gitlab-ci.yml` for your specific CI/CD needs.**Dockerfile**: Adjust the Dockerfile if your application requires different build steps or dependencies.**Docker Compose**: Configure `docker-compose.yml` and `prometheus.yml` for your monitoring and logging requirements.**Helm Chart**: Edit `values.yaml` and `deployment.yaml` for your Kubernetes deployment specifications.**Terraform**: Customize `main.tf`, `variables.tf`, and `outputs.tf` to fit your infrastructure needs.
 
-## Contributing
-
-### Feel free to submit issues or pull requests to improve this project. For major changes, please open an issue first to discuss what you would like to change.
 
 
 
