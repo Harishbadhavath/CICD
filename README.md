@@ -16,7 +16,7 @@ To work with this project, you need the following tools installed:
 - ### Clone the Repository
 
     git clone https://github.com/Harishbadhavath/CICD.git
-    cd CICD-project
+    cd CICD
 
   ### CI/CD Pipeline Setup
 
