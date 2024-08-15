@@ -2,33 +2,7 @@
 
 Welcome to the  DevOps Project repository! This project demonstrates a complete DevOps workflow, including CI/CD pipeline setup, containerization, infrastructure as code, and monitoring.
 # CICDProject
-
-## Project Structure
-
-The repository is organized as follows:
-├── .gitlab-ci.yml           
-
-├── Dockerfile                
-
-├── docker-compose.yml       
-
-├── helm-chart/               
-
-│   ├── Chart.yaml            
-
-│   ├── values.yaml          
-
-│   └── templates/
-
-│       └── deployment.yaml  
-
-└── terraform/                
-
-    ├── main.tf               
-
-    ├── variables.tf          
-
-    └── outputs.tf           
+         
 ### Prerequisites
 
 To work with this project, you need the following tools installed:
