@@ -42,7 +42,7 @@ To work with this project, you need the following tools installed:
 
 - ### Clone the Repository
 
-    git clone https://github.com/yourusername/my-devops-project.git
+    git clone https://github.com/Harishbadhavath/CICD.git
     cd my-devops-project
 
   ### CI/CD Pipeline Setup
