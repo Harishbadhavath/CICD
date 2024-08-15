@@ -1,0 +1,19 @@
+
+replicaCount: 2
+
+image:
+  repository: myrepo/web-app
+  tag: latest
+
+service:
+  type: LoadBalancer
+  port: 80
+
+ingress:
+  enabled: true
+  annotations: {}
+  hosts:
+    - host: myapp.example.com
+      paths:
+        - /
+  tls: []
